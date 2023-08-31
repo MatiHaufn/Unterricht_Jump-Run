@@ -189,7 +189,7 @@ TextureImporter:
       213: 1738769230170681034
     second: Mossy - Decorations&Hazards_61
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -206,10 +206,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -248,6 +250,8 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -259,6 +263,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -271,6 +276,33 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -1588,9 +1620,71 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      Mossy - Decorations&Hazards_0: 7217122259572505013
+      Mossy - Decorations&Hazards_1: 7245173506657615631
+      Mossy - Decorations&Hazards_10: 3854519087547730619
+      Mossy - Decorations&Hazards_11: -4180664988829606838
+      Mossy - Decorations&Hazards_12: -362890367213626599
+      Mossy - Decorations&Hazards_13: -488544862423118083
+      Mossy - Decorations&Hazards_14: -6837957115289482604
+      Mossy - Decorations&Hazards_15: -4987782796224438051
+      Mossy - Decorations&Hazards_16: -1386240991747269610
+      Mossy - Decorations&Hazards_17: -8685087372383361212
+      Mossy - Decorations&Hazards_18: 882862767423078007
+      Mossy - Decorations&Hazards_19: 513964063436504107
+      Mossy - Decorations&Hazards_2: 1488301725011014180
+      Mossy - Decorations&Hazards_20: -4712375719159730009
+      Mossy - Decorations&Hazards_21: -2397280860884365182
+      Mossy - Decorations&Hazards_22: -4255489300767683658
+      Mossy - Decorations&Hazards_23: -7710578750478426230
+      Mossy - Decorations&Hazards_24: -1954566243714298343
+      Mossy - Decorations&Hazards_25: 8330007719274071258
+      Mossy - Decorations&Hazards_26: -353096110197813778
+      Mossy - Decorations&Hazards_27: 2955966184537865832
+      Mossy - Decorations&Hazards_28: -3962320231762723227
+      Mossy - Decorations&Hazards_29: 6895592281151743598
+      Mossy - Decorations&Hazards_3: 5261326726376052483
+      Mossy - Decorations&Hazards_30: -2201004185417273631
+      Mossy - Decorations&Hazards_31: 7225050338637960144
+      Mossy - Decorations&Hazards_32: -3104618362107416908
+      Mossy - Decorations&Hazards_33: -5858836328966904953
+      Mossy - Decorations&Hazards_34: -157243134487158268
+      Mossy - Decorations&Hazards_35: -4425637035840643311
+      Mossy - Decorations&Hazards_36: 8346498722376892961
+      Mossy - Decorations&Hazards_37: -4676625105349964755
+      Mossy - Decorations&Hazards_38: 6478621448368871309
+      Mossy - Decorations&Hazards_39: 2276711303078772840
+      Mossy - Decorations&Hazards_4: -4847004538198489123
+      Mossy - Decorations&Hazards_40: -7841568191824141087
+      Mossy - Decorations&Hazards_41: 4464491158603440044
+      Mossy - Decorations&Hazards_42: 809505645408537467
+      Mossy - Decorations&Hazards_43: 6905654850732562685
+      Mossy - Decorations&Hazards_44: -4802605746894362873
+      Mossy - Decorations&Hazards_45: 1237781610544605494
+      Mossy - Decorations&Hazards_46: 4073598289127009225
+      Mossy - Decorations&Hazards_47: -4160943684179870018
+      Mossy - Decorations&Hazards_48: -3062166371409726720
+      Mossy - Decorations&Hazards_49: -8115813057832612996
+      Mossy - Decorations&Hazards_5: 6385898329335650500
+      Mossy - Decorations&Hazards_50: -1117591700642046976
+      Mossy - Decorations&Hazards_51: 2824478532417113659
+      Mossy - Decorations&Hazards_52: 597695580896438230
+      Mossy - Decorations&Hazards_53: 6444520628154090938
+      Mossy - Decorations&Hazards_54: 1397488400027455204
+      Mossy - Decorations&Hazards_55: 6008264905509028628
+      Mossy - Decorations&Hazards_56: 3186188541748835900
+      Mossy - Decorations&Hazards_57: 6078451048160814445
+      Mossy - Decorations&Hazards_58: 3351432124556559802
+      Mossy - Decorations&Hazards_59: 6018087718364852642
+      Mossy - Decorations&Hazards_6: 2831356835544050211
+      Mossy - Decorations&Hazards_60: -4500033792374212685
+      Mossy - Decorations&Hazards_61: 1738769230170681034
+      Mossy - Decorations&Hazards_7: -7972202525676027561
+      Mossy - Decorations&Hazards_8: -894820518157784494
+      Mossy - Decorations&Hazards_9: 998237952344926632
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
