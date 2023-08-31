@@ -16,4 +16,6 @@ Zum Gameplay gehören:
 - Checkpoints
 - Nutzen einer Tilemap
 
+Sprites from here: https://maaot.itch.io/mossy-cavern
+
 ![JumpnRun](https://github.com/MatiHaufn/Unterricht_Jump-Run/assets/65949947/a3ae832a-ae20-4ed2-9904-69d4579f28db)
